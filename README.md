@@ -3,7 +3,7 @@
 - 🔭 I’m interested in Java Full Stack Web Development
 - 🌱 I’m currently learning Spring Boot 
 - 💬 Ask me about C Python and JAVA basics
-- 📫 How to reach me: www.linkedin.com/in/kotappa-gandudi
+- 📫 How to reach me: www.linkedin.com/in/kotappa19
 
 <!--
 **kotappa19/kotappa19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
