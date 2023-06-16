@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 🔭 I’m interested in Solving Programming Questions
 - 🌱 I’m currently learning JAVA Full Stack Web Development
 - 💬 Ask me about C Python and JAVA basics
-- 📫 How to reach me: www.linkedin.com/in/kotappa-gandudi
+- 📫 How to reach me: www.linkedin.com/in/kotappa19
