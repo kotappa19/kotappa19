@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Kotappa Y Gandudi
 
-- 🔭 I’m interested in Java Full Stack Web Development
-- 🌱 I’m currently learning Spring Boot 
-- 💬 Ask me about C Python and JAVA basics
+- 🔭 I’m interested in Full Stack Web Development
+- 🌱 I’m currently practising Data Structures and Algorithms using C++
+- 💬 Ask me about C/C++ and JAVA basics
 - 📫 How to reach me: www.linkedin.com/in/kotappa19
 
 <!--
