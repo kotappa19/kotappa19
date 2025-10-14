@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Kotappa Y Gandudi
 
-- 🔭 I’m interested in Full Stack Web Development
-- 🌱 I’m currently practising Data Structures and Algorithms using C++
-- 💬 Ask me about C/C++ and JAVA basics
+- 🔭 I’m interested in Data Engineering
+- 🌱 I’m currently practising SQL and Apache Kafka
+- 💬 Ask me about Java, Python, Javascript and Golang
 - 📫 How to reach me: www.linkedin.com/in/kotappa19
 
 <!--
