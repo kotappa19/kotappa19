@@ -2,7 +2,7 @@
 
 - 🔭 I’m interested in Data Engineering
 - 🌱 I’m currently practising SQL and Apache Kafka
-- 💬 Ask me about Java, Python, Javascript and Golang
+- 💬 Ask me about Python, Javascript and Golang
 - 📫 How to reach me: www.linkedin.com/in/kotappa19
 
 <!--
